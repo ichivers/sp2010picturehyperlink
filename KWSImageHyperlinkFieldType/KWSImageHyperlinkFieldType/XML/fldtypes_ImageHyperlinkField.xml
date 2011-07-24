@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FieldTypes>
+  <FieldType>
+    <Field Name="TypeName">ImageHyperlinkField</Field>
+    <Field Name="ParentType">URL</Field>
+    <Field Name="TypeDisplayName">Hyperlink with Picture</Field>
+    <Field Name="TypeShortDescription">Hyperlink with Picture</Field>
+    <Field Name="UserCreatable">TRUE</Field>
+    <Field Name="ShowOnListCreate">TRUE</Field>
+    <Field Name="ShowOnSurveyCreate">TRUE</Field>
+    <Field Name="ShowOnDocumentLibraryCreate">TRUE</Field>
+    <Field Name="ShowOnColumnTemplateCreate">TRUE</Field>
+    <Field Name="FieldTypeClass">KWS.Sharepoint.ImageHyperlinkFieldType.ImageHyperlinkField, $SharePoint.Project.AssemblyFullName$</Field>
+  </FieldType>
+</FieldTypes>
+

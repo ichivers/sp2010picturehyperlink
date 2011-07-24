@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="537854c3-6dca-4afb-ac18-3de898b47aa5" solutionId="537854c3-6dca-4afb-ac18-3de898b47aa5" resetWebServer="false" name="KWSImageHyperlinkFieldType" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="3fb70da8-cc49-4040-8ad2-9585f1e2dc66" />
+    <projectItemReference itemId="72cb4fe2-94fe-4087-9501-87e7ce4609f2" />
+    <projectItemReference itemId="ac8c5497-a672-4634-b290-3b4783560fd2" />
+  </projectItems>
+</package>
